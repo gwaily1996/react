@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gwaily1996.github.io/react/static/css/main.073c9b0a.css",
+    "main.js": "/gwaily1996.github.io/react/static/js/main.774dd2d7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/gwaily1996.github.io/react/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/gwaily1996.github.io/react/index.html",
+    "main.073c9b0a.css.map": "/gwaily1996.github.io/react/static/css/main.073c9b0a.css.map",
+    "main.774dd2d7.js.map": "/gwaily1996.github.io/react/static/js/main.774dd2d7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/gwaily1996.github.io/react/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.774dd2d7.js"
+  ]
+}
