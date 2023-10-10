@@ -50,6 +50,9 @@ const NavigationBar = (props: NavigationBarProps) => {
 		{
 			icon: <Home />,
 			title: 'Home',
+			onClick:()=>{
+				window.location.href = 'https://google.com';
+			},
 			...homeButtonProps
 		},
 		{
